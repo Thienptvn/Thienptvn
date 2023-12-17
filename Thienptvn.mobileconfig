@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+
+       <dict>
+       <key>DNSSettings</key>
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://iygzemqmjt.cloudflare-gateway.com/dns-query</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu Hồi </string>
+	<key>PayloadIdentifier</key>
+	<string>1111111</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>1111111</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+</array>
+<key>PayloadDescription</key>
+<string>❤ Phùng Trí Thiện 🇻🇳
+
+- I come from Vietnam 🇻🇳 
+- Made With Thienptvn ❤️
+- Copyright belongs to Thienptvn
+- Share nhớ ghi nguồn ✅
+- Share and remember to credit the source ✅
+</string>
+<key>PayloadDisplayName</key>
+<string>Cấu Hình Chặn Thu Hồi By Thienptvn</string>
+<key>PayloadIdentifier</key>
+<string>Thienptvn</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadScope</key>
+<string>User</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>00000000</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>
