@@ -56,7 +56,7 @@
 	<key>PayloadDisplayName</key>
 	<string>DNS Chặn Thu Hồi By Thienptvn</string>
 	<key>PayloadIdentifier</key>
-	<string>com.khoindvn.apple-dns.9cb3031c-a76f-4cc3-a919-d3187093eb9b</string>
+	<string>Thienptvn</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
