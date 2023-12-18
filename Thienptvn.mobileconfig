@@ -80,7 +80,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>1111111</string>
+			<string>231184fd-09c0-450a-a34a-e3185fff5f75</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
