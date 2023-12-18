@@ -34,7 +34,7 @@
 			<key>PayloadDisplayName</key>
 			<string>DNS Chặn Thu Hồi Có Chặn ADS</string>
 			<key>PayloadIdentifier</key>
-			<string>thienptvn</string>
+			<string>com.apple.dnsSettings.managed.9d981129-d086-4891-b2cf-165ede3f8a90</string>
 			<key>PayloadOrganization</key>
 			<string>thienptvn</string>
 			<key>PayloadType</key>
