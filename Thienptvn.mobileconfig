@@ -17,6 +17,8 @@
 	<string>Chặn Thu Hồi </string>
 	<key>PayloadIdentifier</key>
 	<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
+        <key>PayloadOrganization</key>
+        <string>thienptvn</string
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
