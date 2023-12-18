@@ -34,13 +34,13 @@
 			<key>PayloadDisplayName</key>
 			<string>DNS Chặn Thu Hồi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
+			<string>1111111</string>
 			<key>PayloadOrganization</key>
 			<string>thienptvn</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>231184fd-09c0-450a-a34a-e3185fff5f75</string>
+			<string>1111111</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -62,7 +62,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>fafd46f6-4af6-4ee2-b538-eceb5b7cf1a1</string>
+	<string>00000000</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
