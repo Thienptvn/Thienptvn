@@ -55,16 +55,19 @@
 - Share and remember to credit the source ✅
 </string>
 <key>PayloadDisplayName</key>
-	<string>DNS Chặn Thu Hồi Editer Khơindvn</string>
-	<key>PayloadIdentifier</key>
-	<string>thienptvn</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>fafd46f6-4af6-4ee2-b538-eceb5b7cf1a1</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
+<string>Cấu Hình Chặn Thu Hồi By Thienptvn</string>
+<key>PayloadIdentifier</key>
+<string>Thienptvn</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadScope</key>
+<string>User</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>00000000</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
 </dict>
 </plist>
+
