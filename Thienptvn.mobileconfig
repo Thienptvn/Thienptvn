@@ -32,11 +32,11 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>DNS Chặn Thu Hồi Không Chặn ADS</string>
+			<string>DNS Chặn Thu Hồi</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
 			<key>PayloadOrganization</key>
-			<string>khơindvn</string>
+			<string>thienptvn</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -46,15 +46,15 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>  ❤ Vũ Văn Khơi 🇻🇳
+	<string>  ❤ Phùng Trí Thiện 🇻🇳
 
 - I come from Vietnam 🇻🇳 
-- Made With Khơindvn ❤️
-- Copyright belongs to Khoindvn
+- Made With Thienptvn ❤️
+- Copyright belongs to Thienptvn
 - Share nhớ ghi nguồn ✅
 - Share and remember to credit the source ✅</string>
 	<key>PayloadDisplayName</key>
-	<string>DNS Chặn Thu Hồi Editer Khơindvn</string>
+	<string>DNS Chặn Thu Hồi By Thienptvn</string>
 	<key>PayloadIdentifier</key>
 	<string>com.khoindvn.apple-dns.9cb3031c-a76f-4cc3-a919-d3187093eb9b</string>
 	<key>PayloadRemovalDisallowed</key>
